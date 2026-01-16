@@ -8,7 +8,7 @@ A Java data analysis project designed to answer questions on a school electricit
 4. Which year had the worst average schoolelectricity access percentage?
 
 ## Sources
-<li><a href="https://www.kaggle.com/datasets/muhammadaammartufail/global-school-electricity-access" style="color:#00BDE1;">Kaggle: Global School </a></li>
+<li><a href="https://www.kaggle.com/datasets/muhammadaammartufail/global-school-electricity-access">Global School Electricity Access Data (2000-2020) by Muhammad Aammar Tufail</a></li>
 
 ## Method Algorithms
 
