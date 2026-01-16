@@ -18,4 +18,13 @@
         <li><a href="https://www.kaggle.com/datasets/muhammadaammartufail/global-school-electricity-access" style="color:#00BDE1;">Kaggle: Global School Electricity Access Data (2000-2020) - Muhammad Aammar Tufail</a></li>
         <li><a href="https://fonts.google.com/specimen/JetBrains+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace" style="color: red;">JetBrains Mono from Google Fonts</a></li>
     </ol>
+    <h2>Method Algorithms</h2>
+    <h3>main()</h3>
+    <ol>
+        <li>Output a dashed line: "---------------------"</li>
+        <li>Output the name of the first function</li>
+        <li>Call the first function</li>
+        <li>Repeat these steps with the other functions</li>
+    </ol>
+    [insert code block]
 </div>
