@@ -14,9 +14,9 @@ A Java data analysis project designed to answer questions on a school electricit
 
 ### main()
 1. Output a dashed line: "---------------------"
-2. Output the name of the first function
+2. Output the name of the first analysis function
 3. Call the first function
-4. Repeat these steps with the other functions
+4. Repeat these steps with the other analysis functions
 
 ### read_csv()
 1. 
