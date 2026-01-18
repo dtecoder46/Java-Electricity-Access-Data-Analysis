@@ -18,8 +18,10 @@ A Java data analysis project designed to answer questions on a school electricit
 3. Call the first function
 4. Repeat these steps with the other analysis functions
 
-### read_csv()
-1. 
+### csv_to_nested_list()
+1. Create a file object using the CSV path
+2. Try to read each line, print an error notification if something goes wrong
+3. TBD
 
 ### country_worst_access()
 1. 
