@@ -1,3 +1,4 @@
+
 public class Main {
     /*
     Purpose: to call the other functions and label the analysis sections
@@ -11,6 +12,6 @@ public class Main {
     Purpose: to read in the CSV dataset and transform it into a list of lists
     */
     static void myMethod() {
-        
+        File csv = new File("school_electricity_access.csv");
     }
 }
