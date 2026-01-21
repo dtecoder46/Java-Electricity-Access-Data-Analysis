@@ -22,7 +22,8 @@ A Java data analysis project designed to answer questions on a school electricit
 1. Create a file object using the CSV path
 1. Try to read each line, print an error notification if something goes wrong
 1. For each line in the dataset
-    1. Split on commas and append to the list of lists
+    1. Add each line into its own list
+    2. Add the line list into the list of lists
 1. Return the list of lists
 
 ### CountryWorstAccess()
