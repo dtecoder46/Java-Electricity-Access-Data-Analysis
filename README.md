@@ -20,8 +20,10 @@ A Java data analysis project designed to answer questions on a school electricit
 
 ### CSVtoNestedList()
 1. Create a file object using the CSV path
-2. Try to read each line, print an error notification if something goes wrong
-3. TBD
+1. Try to read each line, print an error notification if something goes wrong
+1. For each line in the dataset
+    1. Split on commas and append to the list of lists
+1. Return the list of lists
 
 ### CountryWorstAccess()
 1. 
