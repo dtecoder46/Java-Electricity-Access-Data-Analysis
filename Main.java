@@ -14,6 +14,8 @@ public class Main {
 
     /*
     Purpose: to read in the CSV dataset and transform it into a list of lists
+    Parameters: none
+    Return: ListofLists
     */
     static ArrayList<ArrayList<String>> CSVtoNestedList() {
         File csv = new File("school_electricity_access.csv"); // file object
@@ -40,5 +42,15 @@ public class Main {
         }
 
         return ListofLists;
+    }
+
+    /*
+    Purpose: to find the country with the worst school electricity access
+    Parameters: NestedList
+    Return: none
+    */
+
+    static void CountryWorstAccess() {
+        
     }
 }

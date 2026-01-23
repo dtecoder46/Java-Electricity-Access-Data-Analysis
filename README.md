@@ -23,11 +23,16 @@ A Java data analysis project designed to answer questions on a school electricit
 1. Try to read each line, print an error notification if something goes wrong
 1. For each line in the dataset
     1. Add each line into its own list
-    2. Add the line list into the list of lists
+    1. Add the line list into the list of lists
 1. Return the list of lists
 
 ### CountryWorstAccess()
-1. 
+1. For each inner list in the list of lists
+    1. Set index 0 and index 3 of the inner list as a key-value pair of a dictionary
+1. Turn all the values into a list
+1. Find the minimum of this list
+1. Use the lowest access value to call the key (country)
+1. Output the results
 
 ### AccessCoteDivoire()
 1. 
